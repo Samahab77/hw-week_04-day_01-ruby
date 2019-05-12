@@ -1,11 +1,11 @@
 ### How difficult did you find this (0 - 10)? (0 very easy, 10 very difficult)
-5
+
 
 ### How long did it take?
-+2 h 
+
 
 ### Was there anything that you struggled with?  If so, what?
-no
+
 
 ### Is there anything that you would like some further information on?
 

@@ -182,11 +182,14 @@ coffee_average_per_person = []
 
 ### Answer
 
-- finding the ave for person1 
+- finding the ave for every person
+then creat hash for every one 
+then push them inside the array 
+
 ```rb 
 (people[0][:transactions][0][:amount]+people[0][:transactions][2][:amount])/2
 => 5.93
-```
+
 - creat hash for every people
 p1= {}
 p1[:name]=people[0][:name]
@@ -211,8 +214,8 @@ coffee_average_per_person.push(p1,p2,p3)
 => [{:name=>"Jawaher", :coffee_average=>5.93},
  {:name=>"Nader", :coffee_average=>4.43},
  {:name=>"Samah", :coffee_average=>37.28666666666667}]
-```
 
+```
 
 
 
